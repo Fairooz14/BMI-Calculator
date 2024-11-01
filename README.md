@@ -60,7 +60,7 @@ lib/
    
 2. Navigate to the Project Directory
    ```
-   cd Bmi-Calculator
+   cd BMI-Calculator
    ```
 3. Install Dependencies
    ```
